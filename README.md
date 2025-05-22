@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kholofeloj/kholofeloj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there👋, I'm Kholofelo Mocheko
+
+> ### Aspiring `Software Developer`, `founder`, and `graphic >designer` from South Africa. I am willing to learn and collaborate with other developers/engineers/designers on projects.
+
+
+\
+\
+\
+
+# My Skills 
